@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 streamlit
 requests
 matplotlib
 smtplib
 python-dotenv
+=======
+SpeechRecognition
+pyttsx3
+pyaudio
+>>>>>>> 36593b78f279bce5795716e77e84c79b98bbb43e
